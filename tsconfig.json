@@ -9,5 +9,6 @@
     "noImplicitReturns": true, //함수에서 return 빼먹으면 에러내기
     "noFallthroughCasesInSwitch": true,
     "outDir": "./dist" //js파일 아웃풋 경로바꾸기
-  }
+  },
+  "include": ["typescript"]
 }
